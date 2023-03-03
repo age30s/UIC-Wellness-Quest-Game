@@ -1,8 +1,5 @@
-# Final Project
-# CS 111, Reckinger
-# UIN: 679320410
-# Adithya Prasad and Emre Gul
-# Title : UIC Wellness Quest
+# Adithya Prasad
+# UIC Wellness Quest Game
 import turtle
 import random
 
