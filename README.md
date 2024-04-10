@@ -9,7 +9,7 @@ transition to adulthood and college.
 - Graphics built using clip studio paint and adobe photoshop.
 - Background rights go to original artist.
 
+![image](https://github.com/age30s/UIC-Wellness-Quest-Game/assets/97876156/ef656542-0116-4bf4-9cb7-8167b72839b7)
 
-![image](https://github.com/age30s/UIC-Wellness-Quest-Game/assets/97876156/368f999d-097c-473d-a9f6-9bc1ee40a593)
 ![image](https://github.com/age30s/UIC-Wellness-Quest-Game/assets/97876156/8b37c4b5-1fe2-46d6-b3d9-5bd1034e8821)
 
